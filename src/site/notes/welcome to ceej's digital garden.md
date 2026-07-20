@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome-to-ceej-s-digital-garden/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/welcome-to-ceej-s-digital-garden/"}
 ---
 
 🍃 welcome to ceej's digital garden

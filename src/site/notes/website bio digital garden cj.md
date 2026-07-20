@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/website-bio-digital-garden-cj/"}
+{"dg-publish":true,"permalink":"/website-bio-digital-garden-cj/","tags":["gardenEntry"]}
 ---
 
 ☆ cj morae ☆
